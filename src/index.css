@@ -1,0 +1,55 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+}
+
+.json-editor-wrapper {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.json-editor {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.json-editor-tip {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  background-color: #fff;
+}
+
+.tool-btn {
+  width: 18px;
+  height: 18px;
+  background: url(./assets/icon-tool.png) no-repeat center/contain;
+}
+
+.json-format-btn {
+  width: 18px;
+  height: 18px;
+  background: url(./assets/icon-format-json.png) no-repeat center/contain;
+}
+
+.copy-btn {
+  width: 18px;
+  height: 18px;
+  background: url(./assets/icon-copy.png) no-repeat center/contain;
+}

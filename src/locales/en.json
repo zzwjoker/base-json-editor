@@ -1,0 +1,8 @@
+{
+  "selectFieldTip": "Select a cell in a multiple text field to begin editing",
+  "formatJsonErrorTip": "Please enter the correct JSON format",
+  "formatJson": "Format json",
+  "copy": "Copy",
+  "copySuccess": "Copied",
+  "copyFail": "Unable to copy"
+}

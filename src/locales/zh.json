@@ -1,0 +1,8 @@
+{
+  "selectFieldTip": "请选择一个多行文本字段单元格",
+  "formatJsonErrorTip": "请输入正确的JSON格式",
+  "formatJson": "一键美化json",
+  "copy": "复制",
+  "copySuccess": "复制成功",
+  "copyFail": "复制失败"
+}
